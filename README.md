@@ -1,2 +1,2 @@
 # Python-ai
-是ai辅助的Python文件
+是Python文件
